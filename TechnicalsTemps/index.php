@@ -1,4 +1,4 @@
-<?php include 'header.php';?>
+<?php include 'header.php'; ?>
 <br>
 <br>
 <br>
@@ -25,4 +25,4 @@
     </div>
   </div>
 </div>
-<?php include 'footer.php';?>
+<?php include 'footer.php'; ?>
